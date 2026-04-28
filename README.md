@@ -81,8 +81,6 @@ Create, индустриальный мод в стиле около стим-п
 
 ### :white_check_mark: https://modrinth.com/mod/create-big-cannons
 
-### :white_check_mark: https://modrinth.com/mod/enders-delight
-
 ### :white_check_mark: https://modrinth.com/mod/create-steam-n-rails-1.21.1
 
 ### :question: [Aeronatics](https://modrinth.com/mod/create-aeronautics/version/1sv6OtSz)
@@ -117,4 +115,6 @@ Needed for phisics in aeronatics
 Нужен для Aether
 Цветные блоки
 
-### 
+### :white_check_mark: [Create Dragon-plus](https://modrinth.com/mod/create-dragons-plus)
+
+Нужен для create central kitchen
