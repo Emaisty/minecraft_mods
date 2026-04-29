@@ -8,6 +8,8 @@
 
 :red_square: -- мод не работает для сборки, техническая ошибка
 
+:black_circle: -- мод был отвергнут хостом или большенством голосов
+
 ## Mods
 
 ### :white_check_mark: [Create](https://modrinth.com/mod/create) 
@@ -18,15 +20,15 @@ Create, индустриальный мод в стиле около стим-п
 
 После смерти, на земле остается труп, а не раскидывает вещи
 
-### :question: [Furniture N1](https://modrinth.com/mod/handcrafted)
+### :white_check_mark: [Furniture N1](https://modrinth.com/mod/handcrafted)
 
 Декор/мебель
 
-### :question: [Furniture N2](https://modrinth.com/mod/lets-do-furniture)
+### :white_check_mark: [Furniture N2](https://modrinth.com/mod/lets-do-furniture)
 
 Декор/мебель
 
-### :question: [Furniture N3](https://modrinth.com/mod/chipped)
+### :white_check_mark: [Furniture N3](https://modrinth.com/mod/chipped)
 
 Декор/цветные блоки
 
@@ -40,7 +42,7 @@ Create, индустриальный мод в стиле около стим-п
 
 :exclamation: Саша: он не нужен, тк create уже дублирует это
 
-### :question: [Aether](https://modrinth.com/mod/aether)
+### :white_check_mark: [Aether](https://modrinth.com/mod/aether)
 
 Новое измерение рая
 
@@ -101,15 +103,15 @@ Create, индустриальный мод в стиле около стим-п
 
 Needed for phisics in aeronatics
 
-### :question: [Resourceful-lib](https://modrinth.com/mod/resourceful-lib)
+### :white_check_mark: [Resourceful-lib](https://modrinth.com/mod/resourceful-lib)
 
 Нужен для мебели и декора 
 
-### :question: [Architectury-api](https://modrinth.com/mod/architectury-api)
+### :white_check_mark: [Architectury-api](https://modrinth.com/mod/architectury-api)
 
 Нужен для мебели и декора 
 
-### :question: [Athena](https://modrinth.com/mod/athena-ctm)
+### :white_check_mark: [Athena](https://modrinth.com/mod/athena-ctm)
 
 Нужен для цветных блоков
 
@@ -117,7 +119,7 @@ Needed for phisics in aeronatics
 
 Нужен для AE2
 
-### :question: [Owo-lib](https://modrinth.com/mod/owo-lib)
+### :white_check_mark: [Owo-lib](https://modrinth.com/mod/owo-lib)
 
 Нужен для Aether
 Цветные блоки
