@@ -58,11 +58,11 @@ Create, индустриальный мод в стиле около стим-п
 
 Скубодайвинг по нажатию одной кнопки
 
-### :question: [Alexs Caves](https://modrinth.com/mod/alexs-caves)
+### :orange_square: [Alexs Caves](https://modrinth.com/mod/alexs-caves-(unofficial-port))
 
 Новые пещерные биомы
 
-### :question: [Spells and Spellbooks](https://modrinth.com/mod/irons-spells-n-spellbooks)
+### :orange_square: [Spells and Spellbooks](https://modrinth.com/mod/irons-spells-n-spellbooks)
 
 Магия
 
@@ -137,3 +137,23 @@ Needed for phisics in aeronatics
 ### :white_check_mark: [Forgified Fabric API](https://modrinth.com/mod/forgified-fabric-api?version=1.21.1&loader=neoforge)
 
 Нужен для Fabric модов 
+
+### :orange_square: [Citadel](https://modrinth.com/mod/citadel)
+
+Нужен для Alex Caves
+
+### :orange_square: [Gecko-lib](https://modrinth.com/mod/geckolib)
+
+Нужен для Irons Spells 
+
+### :orange_square: [Playeranimator](https://modrinth.com/mod/playeranimator)
+
+Нужен для Irons Spells 
+
+### :orange_square: [Curios](https://modrinth.com/mod/curios)
+
+Нужен для Irons Spells 
+
+### :orange_square: [Irons-lib](https://modrinth.com/mod/irons-lib)
+
+Нужен для Irons Spells 
