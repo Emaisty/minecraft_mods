@@ -6,6 +6,8 @@
 
 :question: -- не тестировалось с остальными модами
 
+:red_square: -- мод не работает для сборки, техническая ошибка
+
 ## Mods
 
 ### :white_check_mark: [Create](https://modrinth.com/mod/create) 
