@@ -16,7 +16,7 @@
 
 Create, индустриальный мод в стиле около стим-панка
 
-### :white_check_mark: [Corpse](https://modrinth.com/mod/corpse)
+### :orange_square: [Corpse](https://modrinth.com/mod/corpse)
 
 После смерти, на земле остается труп, а не раскидывает вещи
 
