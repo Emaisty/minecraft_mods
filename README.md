@@ -83,14 +83,14 @@ Create, индустриальный мод в стиле около стим-п
 
 ### :white_check_mark: https://modrinth.com/mod/create-steam-n-rails-1.21.1
 
-### :question: [Aeronatics](https://modrinth.com/mod/create-aeronautics/version/1sv6OtSz)
+### :white_check_mark: [Aeronatics](https://modrinth.com/mod/create-aeronautics/version/1sv6OtSz)
 
 
 
 
 ## api
 
-### :question: [Sable-api](https://modrinth.com/mod/sable)
+### :white_check_mark: [Sable-api](https://modrinth.com/mod/sable)
 
 Needed for phisics in aeronatics
 
@@ -118,3 +118,7 @@ Needed for phisics in aeronatics
 ### :white_check_mark: [Create Dragon-plus](https://modrinth.com/mod/create-dragons-plus)
 
 Нужен для create central kitchen
+
+### :white_check_mark: [Forgified Fabric API](https://modrinth.com/mod/forgified-fabric-api?version=1.21.1&loader=neoforge)
+
+Нужен для Fabric модов 
