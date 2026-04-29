@@ -58,7 +58,13 @@ Create, индустриальный мод в стиле около стим-п
 
 Скубодайвинг по нажатию одной кнопки
 
-###
+### :question: [Alexs Caves](https://modrinth.com/mod/alexs-caves)
+
+Новые пещерные биомы
+
+### :question: [Spells and Spellbooks](https://modrinth.com/mod/irons-spells-n-spellbooks)
+
+Магия
 
 ## Addons
 
