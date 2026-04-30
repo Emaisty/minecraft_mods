@@ -100,8 +100,11 @@ Create, индустриальный мод в стиле около стим-п
 
 ### :white_check_mark: [Aeronatics](https://modrinth.com/mod/create-aeronautics/version/1sv6OtSz)
 
+### :white_check_mark: https://modrinth.com/mod/create-misc-and-things
 
+### :white_check_mark: https://modrinth.com/mod/create-ore-excavation/versions?g=1.21.1&l=neoforge
 
+### :white_check_mark: https://modrinth.com/mod/create-diesel-generators/version/1.21.1-1.3.11
 
 ## api
 
