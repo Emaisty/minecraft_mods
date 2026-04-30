@@ -16,7 +16,7 @@
 
 Create, индустриальный мод в стиле около стим-панка
 
-### :orange_square: [Corpse](https://modrinth.com/mod/corpse)
+### :black_circle: [Corpse](https://modrinth.com/mod/corpse)
 
 После смерти, на земле остается труп, а не раскидывает вещи
 
@@ -58,11 +58,11 @@ Create, индустриальный мод в стиле около стим-п
 
 Скубодайвинг по нажатию одной кнопки
 
-### :orange_square: [Alexs Caves](https://modrinth.com/mod/alexs-caves-(unofficial-port))
+### :black_circle: [Alexs Caves](https://modrinth.com/mod/alexs-caves-(unofficial-port))
 
 Новые пещерные биомы
 
-### :orange_square: [Spells and Spellbooks](https://modrinth.com/mod/irons-spells-n-spellbooks)
+### :white_check_mark: [Spells and Spellbooks](https://modrinth.com/mod/irons-spells-n-spellbooks)
 
 Магия
 
@@ -141,22 +141,22 @@ Needed for phisics in aeronatics
 
 Нужен для Fabric модов 
 
-### :orange_square: [Citadel](https://modrinth.com/mod/citadel)
+### :black_circle: [Citadel](https://modrinth.com/mod/citadel)
 
 Нужен для Alex Caves
 
-### :orange_square: [Gecko-lib](https://modrinth.com/mod/geckolib)
+### :white_check_mark: [Gecko-lib](https://modrinth.com/mod/geckolib)
 
 Нужен для Irons Spells 
 
-### :orange_square: [Playeranimator](https://modrinth.com/mod/playeranimator)
+### :white_check_mark: [Playeranimator](https://modrinth.com/mod/playeranimator)
 
 Нужен для Irons Spells 
 
-### :orange_square: [Curios](https://modrinth.com/mod/curios)
+### :white_check_mark: [Curios](https://modrinth.com/mod/curios)
 
 Нужен для Irons Spells 
 
-### :orange_square: [Irons-lib](https://modrinth.com/mod/irons-lib)
+### :white_check_mark: [Irons-lib](https://modrinth.com/mod/irons-lib)
 
 Нужен для Irons Spells 
